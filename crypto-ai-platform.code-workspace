@@ -1,0 +1,29 @@
+{
+  "folders": [
+    {
+      "name": "Frontend",
+      "path": "frontend"
+    },
+    {
+      "name": "Backend",
+      "path": "backend"
+    },
+    {
+      "name": "AI Engine",
+      "path": "ai-engine"
+    },
+    {
+      "name": "Trading Bot",
+      "path": "trading-bot"
+    },
+    {
+      "name": "Bots",
+      "path": "bots"
+    },
+    {
+      "name": "Database",
+      "path": "database"
+    }
+  ],
+  "settings": {}
+}
